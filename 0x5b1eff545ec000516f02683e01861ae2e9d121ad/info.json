@@ -1,0 +1,12 @@
+{
+    "name": "Sentra Token",
+    "website": "https://Sentralized.io",
+    "description": "Sentra Token is a decentralized Token built on blockchain base on Binance Smart Chain (BEP-20) that offers a modularized and modern way to give benifit to all Involved users. Its aims to bring businesses and developers together to solve real world problems with the shared values of transparency, fee less transactions, social and economic inclusion, environmental sustainability",
+    "explorer": "https://bscscan.com/token/0x5b1eff545ec000516f02683e01861ae2e9d121ad",
+    "research": "https://research.binance.com/en/projects/trustwallet",
+    "type": "BEP20",
+    "symbol": "STR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5b1eff545ec000516f02683e01861ae2e9d121ad"
+}
